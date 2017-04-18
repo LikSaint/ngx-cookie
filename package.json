@@ -1,5 +1,5 @@
 {
-  "name": "ngx-cookie",
+  "name": "jz_ngx-cookie",
   "version": "0.0.0-development",
   "description": "Implementation of Angular 1.x $cookies service to Angular",
   "scripts": {
